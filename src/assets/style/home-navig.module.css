@@ -1,0 +1,9 @@
+.navig{
+  width: 320px;
+  background-color: #253053;
+  min-height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 99;
+}
